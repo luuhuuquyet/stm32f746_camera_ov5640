@@ -1,1 +1,1 @@
-# stm32f746_camera_ov5640
+# stm32f746 and B-CAMS-OMV (ov5640)
